@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	1.1.1
-Release:	8
+Release:	9
 Summary:	Creating passwords with PHP
 License:	PHP License
 Group:		Development/PHP
