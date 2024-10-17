@@ -8,7 +8,7 @@ Release:	9
 Summary:	Creating passwords with PHP
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Text_Password/
+URL:		https://pear.php.net/package/Text_Password/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
